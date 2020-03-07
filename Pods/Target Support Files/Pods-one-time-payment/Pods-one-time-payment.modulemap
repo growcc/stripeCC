@@ -1,0 +1,6 @@
+framework module Pods_one_time_payment {
+  umbrella header "Pods-one-time-payment-umbrella.h"
+
+  export *
+  module * { export * }
+}
